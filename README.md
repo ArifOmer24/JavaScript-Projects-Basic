@@ -1,2 +1,5 @@
 # JavaScript-Projects-Basic
-GitHub repository containing basic level JavaScript projects.
+Github repository containing basic level Javascript projects.
+
+
+
